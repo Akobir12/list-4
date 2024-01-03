@@ -241,3 +241,47 @@
 	margin-left: 144px;
 }
 /*section-3 end*/
+
+
+/*footer start*/
+.box9 {
+	background-color: #F0F6FE;
+	float: right;
+	margin-top: 150px;
+	background: url(../images/bgman.png) no-repeat;
+	width: 801px;
+	height: 400px;
+}
+.box10 {
+	padding-top: 40px;
+	padding-left: 100px;
+	background-color: #F0F6FE	;
+	margin-top: 150px	;
+	width: 718px;
+	height: 400px;
+	float: left;
+}
+.box10 input {
+	border: 0;
+	border-radius: 6px;
+	padding: 16px;
+	width: 470px;
+	height: 48px;
+	margin-top: 12px;
+}
+.box10 button {
+	margin-top: 12px;
+	width: 160px;
+	height: 50px;
+	background-color: #F2C94C;
+	color: #333333;
+	border: 0;
+	border-radius: 40px;
+}
+/*footer end*/
+.aqibash{
+	margin-top: 575px;
+	background-color: #22426D;
+	width: 100%;
+	height: 80px
+}
